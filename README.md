@@ -4,7 +4,7 @@ A frontend application demonstrating multi-tenancy and role-based access control
 
 ## Live Link
 
-
+https://multi-tenant-sales-dashboard.vercel.app/
 
 ## Features
 
